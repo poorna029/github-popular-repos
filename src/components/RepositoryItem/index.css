@@ -1,0 +1,33 @@
+.li {
+  list-style: none;
+  padding: 0px;
+  border: 1px solid #dde;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #665;
+}
+.avatar-size {
+  width: calc(75vw / 3);
+  border-radius: 10px;
+}
+.flat {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.com {
+  color: yellow;
+}
+.com2 {
+  color: #e73959;
+}
+.com1 {
+  color: blue;
+}
+.icon {
+  width: 30px;
+}

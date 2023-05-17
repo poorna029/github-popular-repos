@@ -1,0 +1,15 @@
+.li-item {
+  padding: 5px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border: 1px solid #dde;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.active {
+  border: 1px solid teal;
+  border-radius: 5px;
+  color: teal;
+  font-weight: 600;
+}
